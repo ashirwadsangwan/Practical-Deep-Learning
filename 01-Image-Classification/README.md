@@ -1,1 +1,1 @@
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjjs8zUhtjiAhVRmuYKHQuKBHQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.dumfriesanimalhospital.com%2Fgrooming%2F&psig=AOvVaw3jERROR9qT4MAksYr2IkeD&ust=1560020302011224)
+![alt text](http://www.dumfriesanimalhospital.com/wp-content/uploads/2017/08/324-1200x400.jpg)
