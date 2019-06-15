@@ -69,7 +69,7 @@ data.show_batch(rows = 3, figsize = (12,7))
 
 ```
 
-### Training ResNet34
+## Training ResNet34
 
 Transfer learning is a technique where you use a model trained on a very large dataset and then adapt it to your own dataset. The idea is that it has learned to recognize many features on all of this data, and that you will benefit from this knowledge, especially if your dataset is small, compared to starting from a randomly initialized model. 
 
